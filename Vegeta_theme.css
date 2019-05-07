@@ -1,0 +1,21 @@
+//META{"name":"Vegeta","description":"Vegeta theme","author":"Raphandryu","version":"1.0"}*// {}
+
+/* imports urls here */
+@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency.css);
+@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/status.css);
+@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/Windows-Activity-buttons.css);
+@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/BlackPanther-Theme/code.css);
+:root {
+	/* background image URL */
+	--background-image: url('https://images2.alphacoders.com/828/thumb-1920-828919.png') center/cover no-repeat;
+	/* default background image 'https://hdqwalls.com/wallpapers/black-panther-4k-movie-poster-vi.jpg */
+	/* Transparency */
+    --transparency-level: rgba(0,0,0,0.25); 
+	/* transparency of top windows bar works different from the top one for some reason you have to try different values to match transparecy (aprox value is top value x 3 = result) */
+	--transparency-level-top: rgba(0,0,0,0.7);
+	/* ESC Button color at settings */
+	--ESC-Button-color: rgba(43, 99, 57, 0.9);
+	/* transparency of settings page */
+	--transparency-settings: rgba(0,0,0,0.4);
+	/* blue main color */
+	--color-main: rgba(8, 6, 6, 0.60);
