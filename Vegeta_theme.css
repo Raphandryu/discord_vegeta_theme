@@ -1,10 +1,10 @@
 //META{"name":"Vegeta","description":"Vegeta theme","author":"Raphandryu","version":"1.0"}*// {}
 
 /* imports urls here */
-@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/transparency.css);
-@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/status.css);
-@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/Modules/Windows-Activity-buttons.css);
-@import url(https://raw.githack.com/Ruben7173/Ruben7173.github.io/master/BetterDiscord-Themes/BlackPanther-Theme/code.css);
+@import url(https://raw.githubusercontent.com/Raphandryu/discord_vegeta_theme/master/transparency.css?token=AJL3SKYA2AG5F5YP63HUVSK42FNN4);
+@import url(https://raw.githubusercontent.com/Raphandryu/discord_vegeta_theme/master/status.css?token=AJL3SK32A3SUVKQ6KWFJTVK42FNJA);
+@import url(https://raw.githubusercontent.com/Raphandryu/discord_vegeta_theme/master/Activity_button.css?token=AJL3SKYYC7Z7JA53DMP5XZ242FNCS);
+@import url(https://raw.githubusercontent.com/Raphandryu/discord_vegeta_theme/master/code.css?token=AJL3SKYZBR2KRC7FNH3BXQK42FNHE);
 :root {
 	/* background image URL */
 	--background-image: url('https://images2.alphacoders.com/828/thumb-1920-828919.png') center/cover no-repeat;
